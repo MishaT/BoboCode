@@ -1,2 +1,2 @@
-# BoboCode
-bobocode-projects
+# Bobo Code
+Here placed learing projects
